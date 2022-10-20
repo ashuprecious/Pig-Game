@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+Pig Game-
+Hy , This game is ceated By Ashutosh Kumar(me..) with HTML,CSS and JavaScript , Here two players can play the game and first player will roll the dice and the number will be increased according to the dice outcome then second player rolls the dice and increses his/her score according to the dice outcome, the player who scores more than 100 or 100 first wins the game.
 
-You can use the [editor on GitHub](https://github.com/ashuprecious/Pig-Game/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Link to view the game and play-> https://ashuprecious.github.io/Pig-Game/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is the Game's Snap-
 
-### Markdown
+![image](https://user-images.githubusercontent.com/48045926/196845664-fef9a780-1963-4971-a437-23219b8a34ee.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here the page after running one chance by both the players->
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashuprecious/Pig-Game/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/48045926/196845900-81c2c35b-f2d3-4189-bd86-a28ac2be3fdc.png)
